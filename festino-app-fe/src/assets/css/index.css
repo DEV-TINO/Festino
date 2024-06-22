@@ -1,7 +1,13 @@
+/* Tailwind */
 @import './tailwind.css';
+
+/* Fonts */
+@import './jalnan2.css';
+@import './pretendardvariable.css';
 
 html,
 body {
   margin: 0px;
   padding: 0px;
+  font-family: 'Pretendard Variable';
 }
