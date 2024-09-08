@@ -2,10 +2,7 @@
 
 **Festino**는 학과, 총학생회, 동아리 등의 다양한 단체를 위한 종합 축제 관리 어플리케이션입니다.
 
-### 메인 링크
-- 메인 페이지: [ Festino 메인](https://festino.dev-tino.com)
-- 메인 주문: [Festino 주문 (모바일 전용)](https://festino.dev-tino.com/order/bcb6ddc2-1116-4729-a643-fa8f3bb5408f/1)
-- 어드민 페이지: [Festino 어드민](https://admin.festino.dev-tino.com/login)
+
 
 ### 주요 기능
 #### 공지
