@@ -103,20 +103,20 @@ Festino로 축제를 더욱 편리하고 즐겁게 만들어 보세요!
 
 ## 🚀 시작하기
 
-1. 이 프로젝트를 클론하세요.
+1. Clone project.
    ```bash
    git clone https://github.com/your-repo/festino.git
    cd festino
    ```
-2. 필요한 패키지를 설치하세요.
+2. Install packages.
    ```bash
    npm install
    ```
-3. 개발 서버를 실행하세요.
+3. Start server
    ```bash
    npm start
    ```
-4. Admin 페이지는 `/admin` 경로에서 접근할 수 있습니다.
+4. Admin 페이지는 `admin.festino.dev-tino.com` 경로에서 접근할 수 있습니다.
 
 
 ## 📝 주의사항
