@@ -129,3 +129,8 @@ Festino는 **사용자 경험의 극대화**와 **관리의 간편화**를 목�
 축제를 준비하거나 관리하는 모든 이들에게 꼭 필요한 앱이 될 것입니다!  
 
 Festino와 함께 멋진 축제를 만들어 보세요! 🎉
+
+## 개발진
+
+<img width="697" alt="image" src="https://github.com/user-attachments/assets/e9352ca7-547f-4327-b4c2-115281cba9fa">
+
