@@ -1,0 +1,12 @@
+[submodule "Festino-Main-BE"]
+  path = Festino-Main-BE
+  url = git@github.com:DEV-TINO/Festino-Main-BE.git
+[submodule "Festino-Admin-BE"]
+  path = Festino-Admin-BE
+  url = git@github.com:DEV-TINO/Festino-Admin-BE.git
+[submodule "Festino-App-FE"]
+	path = Festino-App-FE
+	url = git@github.com:DEV-TINO/Festino-App-FE.git
+[submodule "Festino-Admin-FE"]
+	path = Festino-Admin-FE
+	url = git@github.com:DEV-TINO/festino-admin-fe-v2.git
