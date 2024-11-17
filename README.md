@@ -6,6 +6,8 @@
 
 Festino로 축제를 더욱 편리하고 즐겁게 만들어 보세요!
 
+**Instargram:** [Festino Offical Instargram](https://www.instagram.com/tuk_dev_tino/)
+
 > API 문서는 아래 위키에서 확인할 수 있습니다!
 >
 > [Festino-Wiki](https://github.com/DEV-TINO/Festino/wiki)
