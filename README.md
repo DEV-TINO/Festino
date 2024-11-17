@@ -6,11 +6,8 @@
 
 Festino로 축제를 더욱 편리하고 즐겁게 만들어 보세요!
 
----
 
 ## 🌟 주요 기능
-
----
 
 ### 📱 모바일 기능
 
@@ -96,9 +93,9 @@ Festino로 축제를 더욱 편리하고 즐겁게 만들어 보세요!
 
 ## 🛠️ 사용 기술
 
-- **Frontend**: React.js, TailwindCSS로 직관적이고 반응형 UI 구현.
-- **Backend**: Django Rest Framework를 기반으로 API 설계.
-- **Database**: PostgreSQL로 데이터의 무결성 보장.
+- **Frontend**: Vue.js, TailwindCSS로 직관적이고 반응형 UI 구현.
+- **Backend**: Spring Boot를 기반으로 API 설계.
+- **Database**: MariaDB로 데이터의 무결성 보장.
 - **DevOps**: Docker와 AWS를 사용하여 안정적인 서비스 배포.
 
 ---
